@@ -2,9 +2,6 @@
 
 A modern, responsive portfolio website showcasing my skills and projects as a developer.
 
-## 🚀 Live Demo
-[View Live Portfolio](https://taniya220122710.github.io/portfolio)
-
 ## 📋 Features
 - **Responsive Design** - Works on all devices
 - **Modern UI/UX** - Clean and professional design
