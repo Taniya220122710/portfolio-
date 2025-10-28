@@ -1,4 +1,4 @@
-# Taniya's Portfolio Website
+#  Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills and projects as a developer.
 
@@ -43,6 +43,4 @@ portfolio/
 ## 🔄 Updates
 This portfolio is regularly updated with new projects and skills.
 
----
-*Built with ❤️ by Taniya*
 
